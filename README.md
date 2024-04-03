@@ -4,7 +4,7 @@ Brain Tumor Detection using Web App (Flask) that can classify if patient has bra
 The image data that was used for this project is Brain MRI images for Brain tumor detaction.(https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection)
 
 
-## Want to run this project in your computer
+## Want to run this project in your computer?
 - **Follow these Steps**
  1. Clone or Download 
   2. Open the terminal/CMD in project directory
